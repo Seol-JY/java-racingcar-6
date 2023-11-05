@@ -1,3 +1,5 @@
+### PR 바로가기: https://github.com/woowacourse-precourse/java-racingcar-6/pull/596  
+
 # 미션 - 자동차 경주
 
 ## 🔍 진행 방식
